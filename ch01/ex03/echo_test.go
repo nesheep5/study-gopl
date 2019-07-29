@@ -14,13 +14,16 @@ func args(n int) []string {
 
 }
 
-func BenchmarkEcho1(b *testing.B) {
+// go test -bench=. -benchmem
+
+func BenchmarkEchoA(b *testing.B) {
 	args := args(100)
 	for i := 0; i < b.N; i++ {
 		EchoA(ioutil.Discard, args)
 	}
 }
-func BenchmarkEcho2(b *testing.B) {
+
+func BenchmarkEchoB(b *testing.B) {
 	args := args(100)
 	for i := 0; i < b.N; i++ {
 		EchoB(ioutil.Discard, args)
