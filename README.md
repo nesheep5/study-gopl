@@ -1,2 +1,3 @@
 # study-programming-go
-プログラミング言語Go 練習問題の回答
+書籍「プログラミング言語Go」について学習するリポジトリ。 
+https://github.com/adonovan/gopl.io
