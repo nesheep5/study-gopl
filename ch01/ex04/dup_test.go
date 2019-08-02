@@ -54,15 +54,11 @@ ccc`
 
 	out := &bytes.Buffer{}
 	Dup2(os.Stdin, out, []string{".Dup2", fileA.Name(), fileB.Name()})
-
 	gots := strings.Split(out.String(), "\n")
 	if !contains(gots, "aaa: 2\t"+fileA.Name()) {
 		t.Errorf("aaa should be output")
 	}
-	if !contains(gots, "bbb: 2\t"+fileA.Name()) {
-		t.Errorf("bbb should be output")
-	}
-	if !contains(gots, "bbb: 2\t"+fileB.Name()) {
+	if !contains(gots, "bbb: 4\t"+fileA.Name()+" "+fileB.Name()) {
 		t.Errorf("bbb should be output")
 	}
 	if !contains(gots, "ccc: 2\t"+fileB.Name()) {
