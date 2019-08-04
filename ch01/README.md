@@ -37,6 +37,9 @@ echoプログラムを修正して、個々の引数のインデックスと値�
 リサージュプログラムを修正して`palette`にもっと値を追加し、何らかの興味深い方法で`SetColorIndex`の第3引数を変更して複数の色で画像を生成するようにしなさい。
 
 ## 1.5 URLからの取得
+* https://godoc.org/net/http
+* https://godoc.org/io/ioutil#ReadAll
+
 ## 1.6 URLからの平行な取得
 ### 練習問題
 #### EX1.7
