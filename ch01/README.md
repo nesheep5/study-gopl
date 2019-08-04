@@ -39,6 +39,11 @@ echoプログラムを修正して、個々の引数のインデックスと値�
 ## 1.5 URLからの取得
 * https://godoc.org/net/http
 * https://godoc.org/io/ioutil#ReadAll
+* https://godoc.org/io#Copy
+* https://godoc.org/strings#HasPrefix
+* https://godoc.org/net/http#Request
+* https://godoc.org/net/http#Response
+
 ### 練習問題
 #### EX1.7
 関数呼び出し `io.Copy(dst, src)`は、`src`から読み込み`dst`へ書き込みます。  
