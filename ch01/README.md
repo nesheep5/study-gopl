@@ -1,7 +1,10 @@
 # 第一章 チュートリアル
 
 ## 1.1 ハロー、ワールド
+
 ## 1.2 コマンドライン引数
+* https://godoc.org/os#pkg-variables
+
 ### 練習問題
 #### EX1.1 
 echoプログラムを修正して、そのプログラムを起動したコマンド名である`os.Args[0]` も表示するようにしなさい。
@@ -11,11 +14,20 @@ echoプログラムを修正して、個々の引数のインデックスと値�
 非効率な可能性のあるバージョンと `strings.Join` を使ったバージョンとで、実行時間の差を計測しなさい。
 
 ## 1.3 重複した行を見つける
+* https://godoc.org/bufio#Scanner
+
 ### 練習問題
 #### EX1.4
 重複した行のそれぞれが含まれていたすべてのファイルの名前を表示するように `dup2`を修正しなさい。
 
 ## 1.4 GIFアニメーション
+* https://godoc.org/image
+* https://godoc.org/image/gif
+* https://godoc.org/image/color
+
+![lissajous](https://github.com/nesheep5/study-gopl/blob/master/ch01/lissajous/out.gif)
+![ex05](https://github.com/nesheep5/study-gopl/blob/master/ch01/ex05/out.gif)
+![ex05](https://github.com/nesheep5/study-gopl/blob/master/ch01/ex06/out.gif)
 ### 練習問題
 #### EX1.5
 もっともらしくするために、リサージュプログラムのカラーパレットを背景を黒として緑の線になるように修正しなさい。  
