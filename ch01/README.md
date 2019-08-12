@@ -67,6 +67,12 @@ echoプログラムを修正して、個々の引数のインデックスと値�
 あるウェブサイトが応答しない場合には、プログラムはどのように振る舞うべきでしょうか。(※8.9節参照)
 
 ## 1.7 ウェブサーバ
+- https://golang.org/pkg/net/http/#ListenAndServe
+- https://golang.org/pkg/sync/#Mutex
+- https://golang.org/pkg/io/#Writer
+- https://golang.org/pkg/strconv/#Atoi
+- https://golang.org/pkg/net/url/#URL.Query
+
 ### 練習問題
 #### EX1.12
 リサージュ図形のサーバを修正して、URLからパラメータ値を読み取るようにしなさい。  
