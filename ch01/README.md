@@ -55,6 +55,8 @@ echoプログラムを修正して、個々の引数のインデックスと値�
 `fetch`を修正して、`resp.Status`に設定されているHTTPステータスコードも表示するようにしなさい。
 
 ## 1.6 URLからの平行な取得
+- https://golang.org/doc/effective_go.html#goroutines
+- https://golang.org/pkg/sync/#WaitGroup
 ### 練習問題
 #### EX1.10
 大量のデータを生成するウェブサイトを見つけなさい。  
