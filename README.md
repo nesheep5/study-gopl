@@ -8,3 +8,6 @@ https://github.com/adonovan/gopl.io
 - サンプルソースは必要に応じて適宜写経する。
 - 練習問題はすべて解く。
   - 一旦自力で解いたあと、本書訳者でもある[柴田芳樹氏の回答](https://github.com/YoshikiShibata/gpl)を参考に、解き直す
+
+## 目次
+- [第 1章 チュートリアル](https://github.com/nesheep5/study-gopl/blob/master/ch01/README.md)
