@@ -68,6 +68,9 @@ echoプログラムを修正して、個々の引数のインデックスと値�
 
 ## 1.7 ウェブサーバ
 - https://golang.org/pkg/net/http/#ListenAndServe
+- https://golang.org/pkg/sync/#Mutex
+- https://golang.org/pkg/io/#Writer
+- https://golang.org/pkg/strconv/#Atoi
 
 ### 練習問題
 #### EX1.12
