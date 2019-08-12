@@ -71,6 +71,7 @@ echoプログラムを修正して、個々の引数のインデックスと値�
 - https://golang.org/pkg/sync/#Mutex
 - https://golang.org/pkg/io/#Writer
 - https://golang.org/pkg/strconv/#Atoi
+- https://golang.org/pkg/net/url/#URL.Query
 
 ### 練習問題
 #### EX1.12
