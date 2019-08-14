@@ -10,6 +10,7 @@
   - 大文字は`public`, 小文字は`private`
   
 ## 2.2 宣言
+- `var`, `const`, `func`, `type`
 
 ## 2.3 変数
 ## 2.4 代入
