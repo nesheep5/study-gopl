@@ -10,4 +10,16 @@ https://github.com/adonovan/gopl.io
   - 一旦自力で解いたあと、本書訳者でもある[柴田芳樹氏の回答](https://github.com/YoshikiShibata/gpl)を参考に、解き直す
 
 ## 目次
-- [第 1章 チュートリアル](https://github.com/nesheep5/study-gopl/blob/master/ch01/README.md)
+- [第1章 チュートリアル](https://github.com/nesheep5/study-gopl/blob/master/ch01/README.md)
+- 第２章　プログラム構造
+- 第３章　基本データ型
+- 第４章　コンポジット型
+- 第５章　関数
+- 第６章　メソッド
+- 第７章　インタフェース
+- 第８章　ゴルーチンとチャネル
+- 第９章　共有された変数による並行性
+- 第10章　パッケージとGoツール
+- 第11章　テスト
+- 第12章　リフレクション
+- 第13章　低レベルプログラミング
