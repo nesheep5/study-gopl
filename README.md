@@ -10,8 +10,8 @@ https://github.com/adonovan/gopl.io
   - 一旦自力で解いたあと、本書訳者でもある[柴田芳樹氏の回答](https://github.com/YoshikiShibata/gpl)を参考に、解き直す
 
 ## 目次
-- [第1章 チュートリアル](https://github.com/nesheep5/study-gopl/blob/master/ch01/README.md)
-- 第２章　プログラム構造
+- [第1章 チュートリアル](https://github.com/nesheep5/study-gopl/blob/master/ch01)
+- [第２章　プログラム構造](https://github.com/nesheep5/study-gopl/tree/master/ch02)
 - 第３章　基本データ型
 - 第４章　コンポジット型
 - 第５章　関数
