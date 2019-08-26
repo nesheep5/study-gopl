@@ -12,7 +12,7 @@ https://github.com/adonovan/gopl.io
 ## 目次
 - [第１章　チュートリアル](https://github.com/nesheep5/study-gopl/blob/master/ch01)
 - [第２章　プログラム構造](https://github.com/nesheep5/study-gopl/tree/master/ch02)
-- 第３章　基本データ型
+- [第３章　基本データ型](https://github.com/nesheep5/study-gopl/tree/master/ch03)
 - 第４章　コンポジット型
 - 第５章　関数
 - 第６章　メソッド
